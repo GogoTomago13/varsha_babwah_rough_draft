@@ -1,0 +1,1 @@
+This project is basically like a facial recognition program. It recognizes its user. THe difference is that if an unrecognizable person comes near it gives an alert like an alarm. This can be useful for security systems or even a stranger alert for devices in cases like the device gets stolen. Additionally, this can be used in the case of home protection system. 
